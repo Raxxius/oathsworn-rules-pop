@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  background-image: url('/src/assets/images/dongbiao-lu-deepwood-broken-path-02-c-logo.jpg');
+  height: 100vh;
+  background-size: cover;
+}
